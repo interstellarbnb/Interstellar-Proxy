@@ -1,0 +1,28 @@
+#main {
+  align-items: center;
+  overflow: auto;
+}
+
+#detailsAndResContainer {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1100px;
+}
+
+#details {
+  flex: 1;
+}
+
+#reservations {
+  flex: 1;
+}
+
+#space {
+  margin-bottom: 20px;
+}
+
+#review {
+  overflow: hidden;
+  padding: 30px;
+}
